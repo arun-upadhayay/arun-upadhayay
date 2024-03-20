@@ -52,15 +52,4 @@ I'm a passionate full-stack software developer with a keen interest in building 
 - 🎵 I'm also a musician and love playing the guitar in my free time
 - 🌍 I enjoy traveling and exploring new cultures and cuisines
 
-## My GitHub Stats
 
-[Include a GitHub stats card showing your contributions and activity.]
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-## My Projects
-
-- [Project 1](link_to_project_1): Description of your project and what makes it unique.
-- [Project 2](link_to_project_2): Description of your project and what makes it unique.
-- [Project 3](link_to_project_3): Description of your project and what makes it unique.
-
-!arun(https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
