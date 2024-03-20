@@ -1,39 +1,66 @@
 ### Hi there 👋<h2> I'm Arun Upadhayay</h2>
 ## About Me
 
-I'm a passionate full-stack developer based in ludhiana, with a knack for crafting unique and innovative solutions. With a keen eye for design and a love for clean, efficient code, I specialize in bringing ideas to life through web development.
-- Full-stack Developer 💻
-- Open source enthusiast 🌟
-- Constantly learning and exploring new technologies
+I'm a passionate full-stack software developer with a keen interest in building robust and scalable web applications. Constantly exploring new technologies and methodologies to enhance my skills and create innovative solutions.
+## About Me
+
+- 💻 Full-stack Developer with expertise in frontend and backend technologies
+- 🚀 Passionate about building intuitive user interfaces and scalable backend systems
+- 🌱 Always learning and adapting to new technologies and best practices
+- ❤️ Open source enthusiast and advocate for collaboration and knowledge sharing
+
+## Technologies I Work With
+
+### Frontend
+
+- HTML5
+- CSS3 (Tailwind CSS, Material UI)
+- JavaScript (ES6+)
+- React.js
+
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Other Languages
+
+- C++
+- C
+- Swift
+
+### Databases
+
+- SQL (MySQL, PostgreSQL)
+- NoSQL (MongoDB, Firebase)
+
+## Projects I'm Proud Of
+
+- [Project 1]: Brief description and link
+- [Project 2]: Brief description and link
+- [Project 3]: Brief description and link
+
+## How to Reach Me
+
+- 📧 Email: [Your Email Address]
+- 💼 LinkedIn: [Your LinkedIn Profile URL]
+- 🐦 Twitter: [Your Twitter Handle]
+
+## Fun Facts About Me
+
+- 🎵 I'm also a musician and love playing the guitar in my free time
+- 🌍 I enjoy traveling and exploring new cultures and cuisines
+
+## My GitHub Stats
+
+[Include a GitHub stats card showing your contributions and activity.]
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 ## My Projects
 
 - [Project 1](link_to_project_1): Description of your project and what makes it unique.
 - [Project 2](link_to_project_2): Description of your project and what makes it unique.
 - [Project 3](link_to_project_3): Description of your project and what makes it unique.
 
-## My Tech Stack
-
-### Frontend
-
-- Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries: React.js, Vue.js, Angular
-
-### Backend
-
-- Languages: JavaScript (Node.js), Python, Ruby
-- Frameworks: Express.js, Django, Ruby on Rails
-
-### Databases
-
-- SQL: MySQL, PostgreSQL
-- NoSQL: MongoDB, Firebase
-
-## Connect with Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-
-## Fun Fact
-
-In my free time, I enjoy [Hobbies or Activities], which often inspire my creativity and problem-solving skills in my development projects.
+!arun(https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
