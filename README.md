@@ -2,7 +2,9 @@
 ## About Me
 
 I'm a passionate full-stack developer based in ludhiana, with a knack for crafting unique and innovative solutions. With a keen eye for design and a love for clean, efficient code, I specialize in bringing ideas to life through web development.
-
+- Full-stack Developer 💻
+- Open source enthusiast 🌟
+- Constantly learning and exploring new technologies
 ## My Projects
 
 - [Project 1](link_to_project_1): Description of your project and what makes it unique.
